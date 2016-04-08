@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSoup</string>
+    <string name="data">Hola mundo!</string>
+</resources>
